@@ -6,10 +6,11 @@ I am learning GitHub.
 
 \##Git Practice
 
-Learning Git locally
+Learning Git locally.
 
 
-## try rebranching
 
-Learning Git branch locally
+\##Branch Creation
+
+Learn new branch creation
 
