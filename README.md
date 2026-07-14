@@ -6,21 +6,5 @@ I am learning GitHub.
 
 \##Git Practice
 
-Learning Git locally
-
-
-
-## try rebranching
-
-Learning Git branch locally
-
-
-
-
-
-\##Try Pull requests
-
-
-
-Pulling from other branch
+Learning Git locally.
 
